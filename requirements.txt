@@ -1,0 +1,14 @@
+### make sure you install pymongo==4.0.2 (latest)!!!!! or the program will fail and the 
+### subtle bugs that I ran into are extremely hard to find!!!!
+
+click==8.1.2
+dnspython==2.2.1
+Flask==2.1.1
+importlib-metadata==4.11.3
+itsdangerous==2.1.2
+Jinja2==3.1.1
+MarkupSafe==2.1.1
+pymongo==4.0.2
+Werkzeug==2.1.1
+zipp==3.7.0
+gunicorn
